@@ -10,5 +10,5 @@
 
 To run tests
 
-1. Open terminal in directory with project `pom.xml` file
+1. Open terminal in directory with `pom.xml` file
 2. Run command `mvn test`
