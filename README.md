@@ -2,7 +2,7 @@
 
 ## Requirements ##
 
-- Maven 3.8.5v
+- Maven v.3.8.5
 - Java 17
 - Environment variable JAVA_HOME directing to Java 17 in order to run program with maven
 
