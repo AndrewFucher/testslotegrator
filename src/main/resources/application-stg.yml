@@ -1,0 +1,6 @@
+api-hosts:
+  api-tests-url: http://test-api.d6.dev.devcaz.com/
+  web-tests-url: http://test-app.d6.dev.devcaz.com
+
+api-credentials:
+  basic-authentication-login: front_2d6b0a8391742f5d789d7d915755e09e

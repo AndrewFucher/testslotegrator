@@ -1,0 +1,13 @@
+spring:
+  profiles:
+    active: stg
+
+  jackson:
+    mapper:
+      ACCEPT_CASE_INSENSITIVE_PROPERTIES: true
+    deserialization:
+      FAIL_ON_UNKNOWN_PROPERTIES: false
+      ACCEPT_SINGLE_VALUE_AS_ARRAY: true
+    serialization:
+      WRITE_ENUMS_USING_INDEX: true
+    default-property-inclusion: non_null
